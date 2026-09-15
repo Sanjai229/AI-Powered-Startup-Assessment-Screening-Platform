@@ -1,0 +1,46 @@
+BookFast — Investor Pitch Deck
+Synthetic test file for the MamakScore AI engine. Not a real company.
+Contradictions are deliberate. See testdata_notes.md for the expected findings.
+
+--- Slide 1: Title ---
+BookFast
+Salon booking, sorted.
+Seed round — August 2026
+
+--- Slide 2: The problem ---
+Booking a salon appointment still means calling during business hours.
+Salons lose bookings every evening and every weekend.
+Independent salon owners spend up to 9 hours a week on the phone.
+
+--- Slide 3: The solution ---
+A booking app that lets customers book in under 30 seconds.
+Salons get a calendar, automatic reminders and no more missed calls.
+
+--- Slide 4: Traction ---
+Over 5,000 salons are now on BookFast across Australia.
+We have grown 8% month on month since February.
+Our customers stay with us for an average of two and a half years.
+
+--- Slide 5: Market ---
+There are 25,000 salons in Australia.
+The wider personal services market is worth $4.2 billion a year.
+
+--- Slide 6: Business model ---
+Every salon pays a flat $40 per month.
+Gross margin is 85% after hosting and card fees.
+
+--- Slide 7: Financials ---
+We are currently generating $200,000 in monthly revenue.
+Monthly burn is $11,000.
+We have 30 months of runway at our current spend.
+
+--- Slide 8: Unit economics ---
+It costs us $220 to sign up a new salon.
+Lifetime value per salon is $840.
+
+--- Slide 9: The team ---
+Two founders, both ex-salon owners, plus three engineers.
+
+--- Slide 10: The ask ---
+We are raising $500,000 to double the engineering team
+and expand into New Zealand.
